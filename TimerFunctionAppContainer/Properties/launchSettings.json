@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "TimerFunctionAppContainer": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 31096,
+      "useSSL": false
+    }
+  }
+}
